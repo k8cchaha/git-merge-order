@@ -1,5 +1,7 @@
 const a = 0
 
+const aaaa = 100
+
 const b = 1
 
 const c = [1,2,3]
