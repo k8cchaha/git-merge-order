@@ -8,7 +8,7 @@ const d = function(){
   return true
 }
 
-const e = "Hello World"
+const e = "Hello World Ya!"
 
 const f = {
   aa: 12,
