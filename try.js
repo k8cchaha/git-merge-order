@@ -5,14 +5,15 @@ const b = 1
 const c = [1,2,3]
 
 const d = function(){
-  return true
+  return false
 }
 
 const e = "Hello World"
 
 const f = {
-  aa: 12,
-  bb: 23,
-  cc: 34
+  aa: 1222,
+  bb: 2333,
+  cc: 3444
 }
 
+const g = [1,1,1,1,1]
